@@ -21,6 +21,9 @@
     margin-top: 10vh;
 }
 
-.cardCompra::card a{
-    
+.card a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
 }
